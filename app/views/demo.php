@@ -21,10 +21,10 @@ require_once 'shared/header.php';
                             <input type="number" id="startValue" class="form-control" placeholder="Start Value" value="0" aria-label="Start Value">
                         </div>
                         <div class="col">
-                            <input type="number" id="endValue" class="form-control" placeholder="End Value" value="0" aria-label="End Value">
+                            <input type="number" id="endValue" class="form-control" placeholder="End Value" value="100" aria-label="End Value">
                         </div>
                         <div class="col-12 d-flex justify-content-end">
-                            <button id="btnsubmit" type="button" class="btn btn-dark btn-lg">Helt I Hundre!</button>
+                            <button id="btnSubmit" type="button" class="btn btn-dark btn-lg">Helt I Hundre!</button>
                         </div>
                     </form>
                     <h2 class="border-bottom border-2 mt-5">Results</h2>
@@ -40,7 +40,10 @@ require_once 'shared/header.php';
         </div>
     </div>
 </main>
-
+<script src="js/site.js"></script>
+<script>
+    document.querySelector('#btnSubmit').addEventListener('click', getValues);
+</script>
 <?php
 require_once 'shared/footer.php';
 ?>
