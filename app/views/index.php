@@ -34,7 +34,7 @@ require_once 'shared/header.php';
                 </h5>
             </div>
             <div class="col">
-                <img src="" alt="App Logo" class="img-fluid center-block d-block mx-auto">
+                <img src="img/HeltI00-logo.png" alt="App Logo" class="img-fluid center-block d-block mx-auto">
             </div>
         </div>
     </div>

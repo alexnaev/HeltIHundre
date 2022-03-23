@@ -4,7 +4,7 @@
             <div class="col order-last order-lg-first text-light">
                 <div><span class="text-muted">&copy;2022</span> Alexander Nævdal</div>
             </div>
-            <div class="col d-flex align-items-center justify-content-start justify-content-lg-center">LOGO</div>
+            <div class="col d-flex align-items-center justify-content-start justify-content-lg-center"><img src="img/AN-logo-lg-white.png" alt="Alexander Nævdal Logo" height="42"></div>
             <div class="col d-flex align-items-center justify-content-start justify-content-lg-end">
                 <div class="row">
                     <div class="col social"><a href="#" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a></div>
