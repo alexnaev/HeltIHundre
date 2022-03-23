@@ -7,10 +7,8 @@
             <div class="col d-flex align-items-center justify-content-start justify-content-lg-center"><img src="img/AN-logo-lg-white.png" alt="Alexander Nævdal Logo" height="42"></div>
             <div class="col d-flex align-items-center justify-content-start justify-content-lg-end">
                 <div class="row">
-                    <div class="col social"><a href="#" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a></div>
-                    <div class="col social"><a href="#" target="_blank"><i class="fab fa-github fa-2x"></i></a></div>
-                    <div class="col social"><a href="#" target="_blank"><i class="fab fa-twitter fa-2x"></i></a></div>
-                    <div class="col social"><a href="#" target="_blank"><i class="fab fa-youtube fa-2x"></i></a></div>
+                    <!-- <div class="col social"><a href="#" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a></div> -->
+                    <div class="col social"><a href="https://github.com/alexnaev" target="_blank"><i class="fab fa-github fa-2x"></i></a></div>
                 </div>
             </div>
         </div>

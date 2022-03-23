@@ -54,10 +54,7 @@ switch ($data['title']) {
                         <a <?php echo $source; ?> href="<?php echo URLROOT; ?>/source">The Code</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" target="_blank" href="#">Git Repo</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" target="_blank" href="#">About</a>
+                        <a class="nav-link" target="_blank" href="https://github.com/alexnaev/HeltIHundre">Git Repo</a>
                     </li>
                 </ul>
             </div>
