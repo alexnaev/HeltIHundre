@@ -22,7 +22,7 @@ switch ($data['title']) {
 <html lang="en" class="h-100">
 
 <head>
-    <title>App Name: A Coding Project By Alexander Nævdal</title>
+    <title>Helt I Hundre: A Coding Project By Alexander Nævdal</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -38,7 +38,7 @@ switch ($data['title']) {
 
     <nav class="navbar navbar-expand-md navbar-dark fixed-top">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">APP NAME</a>
+            <a class="navbar-brand" href="#">Helt I Hundre</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>

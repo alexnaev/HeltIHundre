@@ -6,7 +6,7 @@ require_once 'shared/header.php';
     <div class="container">
         <div class="row g-5 py-5 row-cols-1 row-cols-lg-2">
             <div class="col order-last order-lg-first">
-                <h1 class="display-5 fw-bold lh-1 mb-3">APP NAME: A Coding Project</h1>
+                <h1 class="display-5 fw-bold lh-1 mb-3">Helt I Hundre: A Coding Project</h1>
                 <h4 class="lead">
                     Live life one loop at a time. A javascript coding exercise using loops. Write a program that displays the numbers from 0 to 100. Display the even numbers in <strong>BOLD.</strong>
                 </h4>
